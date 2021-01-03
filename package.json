@@ -1,0 +1,23 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "🔗 Privacy friendly URL shortener using Netlify",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/systemdes/url-shortener.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/systemdes/url-shortener/issues"
+  },
+  "homepage": "https://www.dndv.nl",
+  "devDependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
